@@ -1,4 +1,4 @@
-package 연산자;
+package 연산자4강;
 
 public class 연산자의종류 {
     public static void main(String[] args) {

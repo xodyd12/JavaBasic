@@ -1,4 +1,4 @@
-package 표준입출력;
+package 표준입출력5강;
 
 import java.util.Scanner; // Scanner 클래스의 정보를 import 해야 사용 가능
 public class 표준입력 {

@@ -1,4 +1,4 @@
-package 표준입출력;
+package 표준입출력5강;
 
 public class 표준출력 {
     public static void main(String[] args) {

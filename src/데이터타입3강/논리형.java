@@ -1,4 +1,4 @@
-package 데이터타입;
+package 데이터타입3강;
 
 public class 논리형 {
     public static void main(String[] args) {

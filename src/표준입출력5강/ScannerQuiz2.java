@@ -1,4 +1,4 @@
-package 표준입출력;
+package 표준입출력5강;
 
 import java.util.Scanner;
 
